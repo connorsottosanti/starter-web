@@ -16,3 +16,7 @@ Purpose is to do stuff
 This is a simple
 
 ## How to Contribute
+
+### Copyright
+
+2014 Git Training
