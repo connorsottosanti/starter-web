@@ -17,6 +17,8 @@ This is a simple
 
 ## How to Contribute
 
+Edited during merge example
+
 ### Copyright
 
 2014 Git Training
