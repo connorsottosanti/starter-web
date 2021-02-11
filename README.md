@@ -2,7 +2,11 @@
 
 This is a simple website Project
 Showing how to use git and github together
+<<<<<<< HEAD
 Another another
+=======
+Adding more to it
+>>>>>>> myfeature
 
 ## Introduction
 
