@@ -1,6 +1,8 @@
 # humanstxt.org/
 # The humans responsible & technology colophon
 
+Saying thanks to all my students
+
 # TEAM
 
     Connor Sottos connorsottosanti@gmail.com @connor_sotto
